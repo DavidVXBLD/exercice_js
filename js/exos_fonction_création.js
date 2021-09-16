@@ -1,0 +1,1 @@
+console.log("\n##### Exos fonction création#####\n"); //https://thomgo.github.io/Exercices/frontend/javascript/debutant/functions_creation/functions_creation.html
