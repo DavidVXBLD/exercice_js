@@ -57,7 +57,7 @@ if (age < 18) {
 console.log("\n# Exercice 4 bis#\n");
 // Exercice 4 bis________________________________________________________________________________________________________________________________
 
-function isAdult(age=true){
+function isAdult(age=false){
     if(age){
       return (age >= 18) ? true : false;
     }
